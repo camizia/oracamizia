@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaa6wnh2hkbvu5pr5mtzazn3bmfe4hmuv5bism3lo4gpfptur5ne4ua
+fingerprint=09:23:71:51:21:06:af:8b:3c:b6:09:52:62:9c:10:cb
+tenancy=ocid1.tenancy.oc1..aaaaaaaaiit4g67sivbh65tvg27snfk3cfloqeczex466qz53rnlhj24c2aq
+region=eu-paris-1
+key_file=perma_key_oracle.pem
